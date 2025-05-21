@@ -1,0 +1,21 @@
+Transport_ID,Mode,Distance_km,Fuel_Used_L,CO2_Emissions_kg,Region,Vehicle_Age,Load_Capacity_Ton,Speed_kmph
+TR-1,Air,1500,250,750,Asia,5,10,600
+TR-2,Sea,3000,400,1200,Europe,3,20,30
+TR-3,Land,500,60,180,North America,7,5,80
+TR-4,Air,1200,200,600,Asia,4,15,500
+TR-5,Land,600,80,240,Europe,6,8,70
+TR-6,Air,1500,250,750,Asia,5,10,600
+TR-7,Sea,3000,400,1200,Europe,3,20,30
+TR-8,Land,500,60,180,North America,7,5,80
+TR-9,Air,1200,200,600,Asia,4,15,500
+TR-10,Land,600,80,240,Europe,6,8,70
+TR-11,Air,1500,250,750,Asia,5,10,600
+TR-12,Sea,3000,400,1200,Europe,3,20,30
+TR-13,Land,500,60,180,North America,7,5,80
+TR-14,Air,1200,200,600,Asia,4,15,500
+TR-15,Land,600,80,240,Europe,6,8,70
+TR-16,Air,1500,250,750,Asia,5,10,600
+TR-17,Sea,3000,400,1200,Europe,3,20,30
+TR-18,Land,500,60,180,North America,7,5,80
+TR-19,Air,1200,200,600,Asia,4,15,500
+TR-20,Land,600,80,240,Europe,6,8,70
