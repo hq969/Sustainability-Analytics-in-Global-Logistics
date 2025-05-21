@@ -101,7 +101,7 @@ The project uses a simulated logistics dataset with the following features:
 
 **Harsh Sonkar**  
 Senior Data Engineer & Sustainability Analyst  
-📧 connect@harshsonkar.in  
+📧 contact.harshsonkar@gmail.com 
 🌐 [LinkedIn](www.linkedin.com/in/harsh-sonkar-232573250/) | [Portfolio](https://hq969.github.io/harsh-sonkar-portfolio-hk/)
 
 ---
